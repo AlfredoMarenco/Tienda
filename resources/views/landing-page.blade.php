@@ -30,12 +30,8 @@
                 </div> <!-- end top-nav -->
                 <div class="hero container">
                     <div class="hero-copy">
-                        <h1>Laravel Ecommerce Demo</h1>
+                        <h1>Ecommerce Demo</h1>
                         <p>Includes multiple products, categories, a shopping cart and a checkout system with Stripe integration.</p>
-                        <div class="hero-buttons">
-                            <a href="https://www.youtube.com/playlist?list=PLEhEHUEU3x5oPTli631ZX9cxl6cU_sDaR" class="button button-white">Screencasts</a>
-                            <a href="https://github.com/drehimself/laravel-ecommerce-example" class="button button-white">GitHub</a>
-                        </div>
                     </div> <!-- end hero-copy -->
 
                     <div class="hero-image">
@@ -47,7 +43,7 @@
             <div class="featured-section">
 
                 <div class="container">
-                    <h1 class="text-center">Laravel Ecommerce</h1>
+                    <h1 class="text-center">Ecommerce</h1>
 
                     <p class="section-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore vitae nisi, consequuntur illum dolores cumque pariatur quis provident deleniti nesciunt officia est reprehenderit sunt aliquid possimus temporibus enim eum hic lorem.</p>
 
